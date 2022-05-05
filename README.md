@@ -11,6 +11,7 @@ Questions?/Hypothesis
 7. What is the standard deviation from neighbors/region. Is the location of a country more correlated to calories consumed and agricultural productivity than countries' population, population density, rainfall/freshwater, arable land, climate zone?
 
 
+
 Process
 
 Gather the data
