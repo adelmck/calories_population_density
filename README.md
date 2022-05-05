@@ -8,6 +8,7 @@ Questions?/Hypothesis
 4. Which countries are the most productive at producing which crops? 
 5. Crop production by segmentations (failed state index, dictatorships, tropical, OECD)
 6. Are the agricultural productivity of countries with increasing populations increasing?
+7. What is the standard deviation from neighbors/region. Is the location of a country more correlated to calories consumed and agricultural productivity than countries' population, population density, rainfall/freshwater, arable land, climate zone?
 
 
 Process
