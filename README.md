@@ -25,6 +25,7 @@ Data sources:
 Explore the data
 
 Find common columns (country code, country name, crop names)
+
 FAO data has too many columns and columns of yearly productions should be unpivoted.
 
 
